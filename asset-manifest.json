@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chandu2308/portfolio/static/css/main.8d7ec444.css",
+    "main.js": "/Chandu2308/portfolio/static/js/main.7e07295b.js",
+    "index.html": "/Chandu2308/portfolio/index.html",
+    "main.8d7ec444.css.map": "/Chandu2308/portfolio/static/css/main.8d7ec444.css.map",
+    "main.7e07295b.js.map": "/Chandu2308/portfolio/static/js/main.7e07295b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d7ec444.css",
+    "static/js/main.7e07295b.js"
+  ]
+}
